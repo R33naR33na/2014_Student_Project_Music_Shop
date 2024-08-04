@@ -8,3 +8,4 @@ Website using Java Applets.
 This is to create a website, to make working buttons and images.
 
 Sweet Rhythm is a music shop, it is not an actual music shop.
+The location of the store is not real.
