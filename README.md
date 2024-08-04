@@ -2,7 +2,7 @@
 Sweet Rhythm Music Shop
 
 This is a Student Project, made in 27/7/2014.
-Diploma in Information Technology, in Informatics Academy School in Singapore.
+Diploma in Information Technology, in Informatics School in Singapore.
 Website using Java Applets.
 
 This is to create a website, to make working buttons and images.
